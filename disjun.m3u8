@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTVLCOPT:video-filter=invert
-#EXTGRP:ExtGroup1
-#EXTINF:0,Info
-#EXTVLCOPT:param2=value2
+#EXT-X-TARGETDURATION:5220
+#EXTINF:5220
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:af:99:2d&stream=177331&extension=m3u8
+#EXT-X-ENDLIST
